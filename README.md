@@ -6,3 +6,5 @@ In this app we use the [Rive WASM runtime](https://github.com/rive-app/rive-wasm
 As en example we mix all specified animations and can scrub the playhead and bind it to the window scroll.
 
 Example animation [Flame and Spark by JcToon](https://rive.app/community/186-341-flame-and-spark/) 
+
+Demo hosted here: https://svelte-rive-demo.netlify.app/
